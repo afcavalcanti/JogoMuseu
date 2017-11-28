@@ -1,3 +1,3 @@
 # O voo da evolução
-As telas de transição duram 20 segundos.
-O jogador amarelo pode ser controlado com W ou clique esquedo do mouse, o jogador verde pode ser controlado com K ou clique direito do mouse.
+As fases podem durar 30 segundos ou menos, depende da posição dos obstáculos que são gerados aleatoriamente.
+Podem existir bugs, a maioria deles é solucionado fechando e abrindo novamente o jogo.
